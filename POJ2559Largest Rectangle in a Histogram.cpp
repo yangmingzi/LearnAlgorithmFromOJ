@@ -20,7 +20,7 @@ int main()
 			if(i!=n+1)
 				scanf("%d",&h);
 			else
-				h=0;
+				h=0;//deal the last rec 
 			if(h>q[top])
 				
 			{
